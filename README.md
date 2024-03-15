@@ -56,6 +56,7 @@ A list of useful hotkeys for us lazy people.
 <kbd>Ctrl</kbd> + <kbd>B</kbd> $\rightarrow$ <kbd>"</kbd>  |   Split for new pane below
 <kbd>Ctrl</kbd> + <kbd>B</kbd> $\rightarrow$ <kbd>⭥⭤</kbd> |   Switch to a neighboring pane and enter it directly
 <kbd>Ctrl</kbd> + <kbd>B</kbd> $\rightarrow$ <kbd>;</kbd>  |   Switch to previously active pane
+<kbd>Ctrl</kbd> + <kbd>B</kbd> $\rightarrow$ <kbd>Z</kbd>  |   Zoom into/outof current pane
 <kbd>Ctrl</kbd> + <kbd>B</kbd> $\rightarrow$ <kbd>{</kbd>  |   Swap active pane with pane above
 <kbd>Ctrl</kbd> + <kbd>B</kbd> $\rightarrow$ <kbd>}</kbd>  |   Swap active pane with pane below
 <kbd>Ctrl</kbd> + <kbd>B</kbd> $\rightarrow$ <kbd>[</kbd>  |   Enter scroll (copy) mode, use Arrows
